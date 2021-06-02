@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Season review",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum unde rem excepturi quo asperiores dolorem fugiat sint repudiandae, neque cum.",
+      "author": "Gbemi",
+      "id": 1
+    },
+    {
+      "title": "Top picks",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores blanditiis pariatur explicabo libero eius ullam quam praesentium quo minus totam tenetur, nulla error dicta aut corrupti voluptatem amet numquam harum, cupiditate saepe ipsum provident laborum quod! Fuga sunt at dignissimos voluptate laboriosam veritatis neque!",
+      "author": "Fk",
+      "id": 2
+    },
+    {
+      "title": "Weekly tips",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Mollitia reiciendis autem beatae odit recusandae ullam perspiciatis sit tempore molestias dignissimos dicta at dolore quo minima vitae unde laboriosam quasi facere rem similique, iste ea, neque itaque nihil! Porro dolorum id vitae impedit rerum, earum, reprehenderit provident commodi sed saepe assumenda voluptates optio officiis deserunt nam excepturi.",
+      "author": "Gbemi",
+      "id": 3
+    },
+    {
+      "title": "FPL Draft",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad a laboriosam, quod perspiciatis nam nesciunt veniam necessitatibus dicta officiis corporis quas. Tempora deleniti libero in laborum, amet quisquam quas illum quod soluta, porro aliquam quidem maxime aut odio adipisci. Amet nihil accusantium quidem neque illo totam dolore, enim rem voluptatum asperiores laboriosam maiores sunt iste facere minima aliquid ducimus distinctio molestias eveniet! Ipsum, ut maiores. Qui provident soluta est temporibus!",
+      "author": "Gbemi",
+      "id": 4
+    },
+    {
+      "title": "FPL Differentials",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis, laboriosam commodi. Ipsum iure temporibus distinctio deserunt molestias voluptas itaque nihil voluptates, natus totam. Ullam aperiam accusamus mollitia ea est earum fuga libero laboriosam, accusantium fugit enim quia cupiditate rem, ab at cum quis aut debitis pariatur omnis? Non expedita officiis iste est perspiciatis eveniet, officia ducimus? Ad voluptate, vel sunt animi eveniet error in recusandae vitae inventore esse rem cupiditate quaerat magnam. Repellendus, deserunt natus? Illum necessitatibus suscipit quidem eos incidunt! Architecto deleniti tempora quo, inventore itaque fugiat modi fuga consequuntur autem! Consectetur eius, dolorum laborum saepe ea obcaecati reiciendis.",
+      "author": "Fk",
+      "id": 6
+    }
+  ]
+}

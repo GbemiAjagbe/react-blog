@@ -13,8 +13,8 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
+  "homepage": "https://GbemiAjagbe.github.io/react-blog",
   "scripts": {
-    "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
@@ -39,6 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://gbemiajagbe.github.io/react-blog"
+  }
 }

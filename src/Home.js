@@ -1,13 +1,8 @@
 import Bloglist from "./Bloglist";
 import useFetch from "./useFetch";
-const cors = require ('cors')
-
 
 const Home = () => {
     
-   
-    cors({ origin: "*" })
-
     const { data: blogs, isPending, error } = useFetch('http://localhost:8000/blogs');
 
     return (

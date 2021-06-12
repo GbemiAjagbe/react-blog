@@ -3,7 +3,7 @@ import useFetch from "./useFetch";
 
 const Home = () => {
     
-    const { data: blogs, isPending, error } = useFetch('https://mockend.com/org/repo/posts');
+    const { data: blogs, isPending, error } = useFetch('https://cors-anywhere.herokuapp.com/http://localhost:8000/blogs');
 
     return (
         <div className="home">

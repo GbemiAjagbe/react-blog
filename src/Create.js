@@ -14,7 +14,7 @@ const Create = () => {
 
         setIsPending(true);
 
-        fetch('https://mockend.com/org/repo/posts', {
+        fetch('http://localhost:8000/blogs', {
             method: 'POST',
             headers: { "Content-Type": "application/json"},
             body: JSON.stringify(blog)
